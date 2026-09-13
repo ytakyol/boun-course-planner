@@ -97,11 +97,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Timetable of selected courses.
 - Display individual and total credit of selected courses.
 
-[unreleased]: https://github.com/kilicbaran/boun-course-planner/compare/v1.2.0...HEAD
-[1.2.0]: https://github.com/kilicbaran/boun-course-planner/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.2...v1.1.0
-[1.0.2]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.1...v1.0.2
-[1.0.1]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/kilicbaran/boun-course-planner/compare/v0.2.0...v1.0.0
-[0.2.0]: https://github.com/kilicbaran/boun-course-planner/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/kilicbaran/boun-course-planner/releases/tag/v0.1.0
+[unreleased]: https://github.com/ytakyol/boun-course-planner/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/ytakyol/boun-course-planner/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/ytakyol/boun-course-planner/compare/v1.0.2...v1.1.0
+[1.0.2]: https://github.com/ytakyol/boun-course-planner/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/ytakyol/boun-course-planner/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/ytakyol/boun-course-planner/compare/v0.2.0...v1.0.0
+[0.2.0]: https://github.com/ytakyol/boun-course-planner/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/ytakyol/boun-course-planner/releases/tag/v0.1.0

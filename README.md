@@ -36,7 +36,7 @@ npm install
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kilicbaran/boun-course-planner.git
+   git clone https://github.com/ytakyol/boun-course-planner.git
    ```
 2. Install NPM packages
    ```sh

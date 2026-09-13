@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://kilicbaran.github.io/boun-course-planner/sitemap.xml
+Sitemap: https://ytakyol.github.io/boun-course-planner/sitemap.xml
