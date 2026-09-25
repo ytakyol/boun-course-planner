@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://ytakyol.github.io/boun-course-planner/sitemap.xml
